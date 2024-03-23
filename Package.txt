@@ -1,0 +1,29 @@
+Toastr.js para sa mga error
+
+composer require yoeunes/toastr
+
+mailtrap.io
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tools and services
+
+ADMIN
+admin dashboard
+manage SLIDER
+
+
+Yajra datatable
+https://yajrabox.com/docs/laravel-datatables/10.0/quick-starter
+
